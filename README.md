@@ -1,8 +1,10 @@
-myFirstMojioApp
+**NOTICE:** This fork is modified to work in conjunction with the [BMW i3 Hackathon developer center](https://bmw.developer.moj.io/) ONLY.  If you are not apart of the BMW i3 hackathon, please refer to [myFirstMojioApp](https://github.com/mojio/myFirstMojioApp) source instead.
+
+myFirstBMWApp
 ===============
 
-This is the source code for the "Building Your First App" page on the Mojio developer center website:
+This is the source code for the "Building Your First App" page on the BMW developer center website:
 
-http://developer.moj.io/university/yourfirstapp
+https://bmw.developer.moj.io/learn/yourfirstapp
 
 
