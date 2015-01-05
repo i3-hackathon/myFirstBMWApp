@@ -7,7 +7,7 @@
   config = {
     application: '[YOUR APP ID GOES HERE]',
     redirect_uri: '[YOUR REDIRECT URI GOES HERE]',
-    hostname: 'api.moj.io',
+    hostname: 'bmw.api.moj.io',
     version: 'v1',
     port: '443',
     scheme: 'https'
