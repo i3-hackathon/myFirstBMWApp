@@ -4,7 +4,7 @@ body {
 	line-height: 1.42857143;
 	color: #333;
 	background-color: #fff;
-	background-image: url(http://www.moj.io/wp-content/uploads/mojio_spiderweb_bkg.jpg);
+	background-image: url(https://www.moj.io/wp-content/uploads/mojio_spiderweb_bkg.jpg);
 	padding: 10px;
 }
 
@@ -15,7 +15,7 @@ h1 {
 	margin-bottom: 20px;
 	padding-left: 65px;
 	text-transform: uppercase;
-	background-image: url(http://bmw.developer.moj.io/content/themes/bmw/img/bmw_mini_logos.png);
+	background-image: url(http://data.hackthedrive.com/content/themes/bmw/img/bmw_mini_logos.png);
 	background-position: center left;
 	background-repeat: no-repeat;
 	background-size: 30px;
@@ -42,7 +42,7 @@ h1 {
 }
 
 footer {
-	background-image: url(http://bmw.developer.moj.io/Content/themes/bmw/img/powered_by_mojio.png);
+	background-image: url(http://data.hackthedrive.com/Content/themes/bmw/img/powered_by_mojio.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	height: 50px;
