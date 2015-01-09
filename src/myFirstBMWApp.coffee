@@ -6,8 +6,8 @@ config = {
     redirect_uri: '[YOUR REDIRECT URI GOES HERE]',
     hostname: 'data.api.hackthedrive.com',
     version: 'v1',
-    port: '443',
-    scheme: 'https',
+    port: '80',
+    scheme: 'http',
 };
 
 bmw_client = new BMWClient(config)
